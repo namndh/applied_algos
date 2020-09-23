@@ -1,0 +1,3 @@
+/home/nam/CLionProjects/applied_algo_hust/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nam/CLionProjects/applied_algo_hust/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nam/CLionProjects/applied_algo_hust/cmake-build-debug/CMakeFiles/untitled.dir
